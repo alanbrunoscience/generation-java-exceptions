@@ -1,4 +1,4 @@
-## Serialization
+# Serialization
 
 <br />
 
@@ -10,7 +10,7 @@ The **`serialVersionUID`** is used to ensure that the class version is compatibl
 
 <br />
 
-### What is `serialVersionUID`?
+## What is `serialVersionUID`?
 
 <br />
 
@@ -36,7 +36,7 @@ Eclipse issues a warning when it finds a class that implements the **`Serializab
 
 ------
 
-## 📸 "A Photograph of an Object" (Analogy)
+# 📸 "A Photograph of an Object" (Analogy)
 
 <br />
 
@@ -56,7 +56,7 @@ Imagine you have a **photograph** of an object that you want to store or send to
 
 <br />
 
-### In Summary
+## In Summary
 
 <br />
 
