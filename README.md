@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">⚠️ Exceptions in Java (Throws)</h1>
+<h1 align="center">⚠️ Exceptions in Java (`throws` clause)</h1>
 
 <br />
 
