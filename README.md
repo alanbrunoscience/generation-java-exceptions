@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">⚠️ Exceptions in Java (`throws` clause)</h1>
+<h1 align="center">⚠️ Exceptions in Java ("throws" clause)</h1>
 
 <br />
 
@@ -25,7 +25,7 @@
 
 <br />
 
-This repository contains example code to explain the `throws` clause, which is used to specify the exceptions that a method can throw.
+This repository contains example code to explain the `throws` clause, which is used to specify the **exceptions that a method might throw**.
 
 It was created as the complementary project for the Full-Stack Java development course, offered by **[Generation Brazil](https://brazil.generation.org/)**.
 
